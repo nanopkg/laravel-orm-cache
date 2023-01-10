@@ -4,7 +4,6 @@ namespace Nanopkg\OrmCache;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Nanopkg\OrmCache\Commands\OrmCacheCommand;
 
 class OrmCacheServiceProvider extends PackageServiceProvider
 {
